@@ -1,0 +1,8 @@
+﻿c_TipoRelacion,Descripción,Fecha inicio de vigencia,Fecha fin de vigencia
+01,Nota de crédito de los documentos relacionados,01/01/2022,
+02,Nota de débito de los documentos relacionados,01/01/2022,
+03,Devolución de mercancía sobre facturas o traslados previos,01/01/2022,
+04,Sustitución de los CFDI previos,01/01/2022,
+05,Traslados de mercancías facturados previamente,01/01/2022,
+06,Factura generada por los traslados previos,01/01/2022,
+07,CFDI por aplicación de anticipo,01/01/2022,

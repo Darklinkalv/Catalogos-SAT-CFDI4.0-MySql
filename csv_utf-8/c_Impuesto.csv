@@ -1,0 +1,4 @@
+﻿c_Impuesto,Descripción,Retención,Traslado,Local o federal,Fecha inicio de vigencia,Fecha fin de vigencia
+001,ISR,Si,No,Federal,01/01/2022,
+002,IVA,Si,Si,Federal,01/01/2022,
+003,IEPS,Si,Si,Federal,01/01/2022,

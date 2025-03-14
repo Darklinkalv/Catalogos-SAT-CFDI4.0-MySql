@@ -1,0 +1,9 @@
+﻿c_ObjetoImp,Descripción,Fecha inicio de vigencia,Fecha fin de vigencia
+1,No objeto de impuesto.,01/01/2022,
+2,Sí objeto de impuesto.,01/01/2022,
+3,Sí objeto del impuesto y no obligado al desglose.,01/01/2022,
+4,Sí objeto del impuesto y no causa impuesto.,07/10/2022,
+5,"Sí objeto del impuesto, IVA crédito PODEBI.",06/12/2023,
+6,"Sí objeto del IVA, No traslado IVA.",13/12/2024,
+7,"No traslado del IVA, Sí desglose IEPS.",13/12/2024,
+8,"No traslado del IVA, No desglose IEPS.",13/12/2024,
